@@ -136,9 +136,4 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-/.idea/vcs.xml
-/.idea/.name
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/python-refresher.iml
+/.idea/ 
